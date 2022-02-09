@@ -1,0 +1,181 @@
+﻿  Arme.cpp
+  Caisse_munition.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Caisse_munition.cpp(33,70): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Caisse_munition.cpp(33,49): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Caisse_munition.cpp(33,29): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Caisse_munition.cpp(41,70): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Caisse_munition.cpp(41,49): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Caisse_munition.cpp(41,29): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+  Camera.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.h(29,8): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(17,26): warning C4305: '=' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(18,30): warning C4305: '=' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(45,16): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(45,56): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(45,106): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(45,146): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(45,196): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(45,236): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(56,17): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.cpp(61,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Carte.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(132,83): warning C4244: 'argument' : conversion de 'unsigned int' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(132,39): warning C4244: 'argument' : conversion de 'unsigned int' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(133,69): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(133,36): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(136,76): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(136,43): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(149,62): warning C4244: 'argument' : conversion de 'unsigned int' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(149,28): warning C4244: 'argument' : conversion de 'unsigned int' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(156,72): warning C4244: 'argument' : conversion de 'unsigned int' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(156,28): warning C4244: 'argument' : conversion de 'unsigned int' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(169,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(216,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(322,38): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(323,36): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(334,95): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(335,89): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(339,99): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(340,93): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(347,69): warning C4018: '>' : incompatibilité signed/unsigned
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(347,146): warning C4018: '>' : incompatibilité signed/unsigned
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(355,69): warning C4018: '>' : incompatibilité signed/unsigned
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Carte.cpp(355,146): warning C4018: '>' : incompatibilité signed/unsigned
+  jeu.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Camera.h(29,8): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\jeu.cpp(41,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\jeu.cpp(128,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\jeu.cpp(177,23): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\jeu.cpp(364,26): warning C4305: '=' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\jeu.cpp(414,33): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\jeu.cpp(419,52): warning C4305: '+=' : troncation de 'double' à 'float'
+  Joueur.cpp
+  LoadTexture.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\LoadTexture.cpp(11,12): warning C4101: 'ID' : variable locale non référencée
+  Personnage.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Personnage.cpp(35,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Personnage.cpp(63,65): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Personnage.cpp(63,48): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Personnage.cpp(63,31): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+  Pistol.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(28,50): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(30,64): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(34,36): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(54,24): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(59,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(60,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(61,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(62,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(63,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(64,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(65,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(67,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(68,25): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(69,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(70,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(71,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(72,26): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(73,44): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(74,28): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(75,44): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(76,24): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(77,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(78,25): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(79,44): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(81,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(82,28): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(83,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(84,25): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(85,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(86,26): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(87,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(88,25): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Pistol.cpp(89,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Shotgun.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(34,51): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(36,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(43,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(71,24): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(76,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(78,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(79,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(80,54): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(81,25): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(82,47): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(83,29): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(84,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(85,28): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(86,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(87,24): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(88,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(89,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(90,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(91,29): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(92,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(93,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(94,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(95,28): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(96,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(97,30): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(98,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(99,29): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(100,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(101,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(102,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(103,25): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Shotgun.cpp(104,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Uzi.cpp
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(30,51): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(32,65): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(37,37): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(66,24): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(70,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(71,27): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(72,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(74,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(75,29): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(76,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(78,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(80,26): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(81,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(83,31): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(84,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(85,25): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(86,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(87,33): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(88,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(90,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(91,28): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(92,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\Centrale Nantes\2ème année\P1RV\jeu\jeu\Uzi.cpp(94,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Vague.cpp
+  Vector3D.cpp
+  Zombie.cpp
+  Génération de code en cours...
+jpegD.lib(jaricom.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jaricom.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jcomapi.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jcomapi.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdapimin.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdapimin.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdapistd.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdapistd.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdarith.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdarith.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdatasrc.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdatasrc.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdcoefct.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdcoefct.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdcolor.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'jpegD.lib(jdcolor.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jddctmgr.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jddctmgr.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdhuff.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdhuff.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdinput.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdinput.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdmainct.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdmainct.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdmarker.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdmarker.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdmaster.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'jpegD.lib(jdmaster.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdmerge.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdmerge.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdpostct.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jdpostct.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jdsample.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'jpegD.lib(jdsample.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jerror.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jerror.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jidctflt.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jidctflt.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jidctfst.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'jpegD.lib(jidctfst.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jidctint.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jidctint.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jmemmgr.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jmemmgr.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jmemnobs.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jmemnobs.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jquant1.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jquant1.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jquant2.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jquant2.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+jpegD.lib(jutils.obj) : warning LNK4099: PDB 'jpeg.pdb' n'a pu être trouvé avec 'jpegD.lib(jutils.obj)' ou sur 'D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jpeg.pdb' ; l'objet sera lié sans informations de débogage
+  jeu.vcxproj -> D:\Centrale Nantes\2ème année\P1RV\jeu\Debug\jeu.exe
